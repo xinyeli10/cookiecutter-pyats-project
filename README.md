@@ -9,5 +9,5 @@ A cookiecutter to generate pyATS scripts
 
 ```
 pip install cookiecutter
-cookiecutter <insertMyGithubRepoLinkHere>
+cookiecutter https://github.com/xinyeli10/cookiecutter-pyats-project
 ```
