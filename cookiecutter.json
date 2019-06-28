@@ -1,11 +1,11 @@
 {
-    "project_name": "awesome_pyats",
-    "project_description": "PoC code for doing something really awesome",
-    "github_org": "jsmith",
-    "github_id": "awesome_pyats",
+    "project_name": "cookiecutter-pyats-project",
+    "project_description": "A cookiecutter to generate pyATS scripts.",
+    "github_org": "xinyeli10",
+    "github_id": "xinyeli10",
     "project_version": "0.1",
     "testcase_class": "Awesome",
     "testcase_description": "This tests to make sure something is working",
-    "author_name": "John Smith",
-    "author_email": "jsmith@company.com"
+    "author_name": "Sarah Li",
+    "author_email": "xinyeli@cisco.com"
 }
